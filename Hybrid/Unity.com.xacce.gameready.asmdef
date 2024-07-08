@@ -1,0 +1,23 @@
+{
+    "name": "com.xacce.gameready.hybrid",
+    "references": [
+        "Unity.Burst",
+        "Unity.Transforms",
+        "Unity.Transforms.Hybrid",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "com.xacce.gameready.runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "rootNamespace": "GameReady.Hybrid"
+}
